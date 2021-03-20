@@ -9,7 +9,7 @@
     <br>    
 </ul>
 
-<p style="font-weight: bold">Você também precisará de um editor de texto como o VSCode ou o PHPStorm</p>
+<p style="font-weight: bold">Você também precisará de um editor de texto como o VSCode</p>
 
 ### Rodando o Projeto
 
